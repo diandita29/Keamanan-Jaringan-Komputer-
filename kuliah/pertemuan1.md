@@ -43,3 +43,6 @@ https://drive.google.com/open?id=0B17w878LGlWFXzd0MkNTSWdxZUE
 Youtube:
 https://www.youtube.com/watch?v=nvogMp-2oa0
 
+Blog:
+http://dianditapuspita.blogspot.co.id/
+
