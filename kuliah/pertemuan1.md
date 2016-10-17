@@ -1,3 +1,8 @@
+Diandita Wira Puspita
+1144028
+D4 Teknik Informatika 3C
+Politeknik Pos Indonesia
+
 Keamanan Jaringan Komputer
 TCP/IP dan OSI Layer
 
@@ -34,4 +39,7 @@ Sofana, iwan. (2008)."Membangun Jaringan Komputer", Penerbit Informatika, Bandun
 Scan:
 https://drive.google.com/open?id=0B17w878LGlWFb3EtRGtXdjIyY0k 
 https://drive.google.com/open?id=0B17w878LGlWFXzd0MkNTSWdxZUE 
+
+Youtube:
+https://www.youtube.com/watch?v=nvogMp-2oa0
 
