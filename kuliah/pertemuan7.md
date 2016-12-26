@@ -3,7 +3,7 @@ Diandita Wira Puspita
 D4 Teknik Informatika 3C
 Politeknik Pos Indonesia
 
-SISTEM INFORMASI GEOGRAFIS
+KEAMANAN JARINGAN KOMPUTER
 FIREWALL
 
 Firewall adalah suatu aturan di dalam sebuah sistem operasi yang berfungsi untuk mengatur untuk paket yang datang dan pergi dari suatu jaringan.
