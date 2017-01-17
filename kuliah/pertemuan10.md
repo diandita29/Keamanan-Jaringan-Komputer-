@@ -29,6 +29,8 @@ Sebaiknya mendalami terlebih dahulu mengenai proses radius.
 Referensi
 http://www.ibm.com/support/knowledgecenter/ssw_i5_54/rzaiy/rzaiyradiusovw.htm 
 
-
+Scan
+Scan 1 
+Scan 2 
 
 
